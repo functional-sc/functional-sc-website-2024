@@ -18,5 +18,10 @@ tags:: lisp, meetup
 -
 - **Note: does NOT work with an Apple phone!**
 -
-- ### [RSVP here](https://www.meetup.com/reforge/events/303531648) and meet us at Reforge Charleston
+- Resources:
+	- • [ulisp-neotrinkey](https://github.com/functional-sc/ulisp-neotrinkey) (github)
+	- • [ulisp examples](https://github.com/functional-sc/ulisp-neotrinkey/tree/master/examples) (github)
+	- • [handout uLisp Setup](../assets/uLisp-handout-setup_1728917338847_0.pdf) (pdf)
+	- • [handout NeoTrinkey Additions](../assets/uLisp-handout-NeoTrinkey-reference_1728917377897_0.pdf) (pdf)
+	- • [handout uLisp Cheatsheet Reference](../assets/uLisp-handout-cheatsheet_1728917418317_0.pdf) (pdf)
 -
