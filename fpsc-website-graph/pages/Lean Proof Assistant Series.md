@@ -7,6 +7,9 @@ presenter:: [[Jared Corduan]]
 -
 - This Summer 2024 Series is for enthusiasts to join together to learn, code, and share their experiences with Lean.
 -
+- [Charleston Lean Meetup notes, examples and details now available!](https://github.com/lean-chs/charleston-lean-meetup) (github)
+	- ![Lean-example.png](../assets/Lean-example_1728911793775_0.png)
+-
 - [RSVP at the Charleston Learning Center](https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/) for the next meeting:
 -
 - {{embed [[CDC Learning Center]]}}
