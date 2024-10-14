@@ -1,5 +1,5 @@
 tags:: lisp, meetup
-  date:: October 2, 2024
+  date:: 2024-10-02
   event-url:: https://www.meetup.com/reforge/events/303531648
   presenter:: [[Heow Goodman]]
 
