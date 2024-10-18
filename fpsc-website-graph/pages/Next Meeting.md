@@ -8,3 +8,5 @@ date:: November 2024
 - • [Halloween Mashup Meetup Costume Party](https://www.meetup.com/charleston-women-in-tech/events/303742649/)
 - • [[Lean Proof Assistant Series]] November Meetup TBD
 - • [[How uLisp Simplifies Programming]] Budget Micro-controller Workshop (reprise)
+- [[Foo]]
+-

@@ -20,7 +20,7 @@ tags:: management
 - ### Our Website
 - http://functional.sc
 -
-- Create new article, include metadata:
+- Create new article, see [[Content Creation]] , include metadata:
 	- tags: Clojure, technical, meetup
 	  presenter: [[Foo]] 
 	  date: 2016-04-16

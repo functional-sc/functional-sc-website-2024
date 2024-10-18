@@ -1,4 +1,5 @@
-### Misc
+-
+- ### Pages Tagged Management
 	- {{query (page-tags [[management]])}}
 -
 - ### Venues

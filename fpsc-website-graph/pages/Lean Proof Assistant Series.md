@@ -11,9 +11,9 @@ presenter:: [[Jared Corduan]]
 -
 - Resources:
 	- • Lean Meetup [notes, examples and details now available!](https://github.com/lean-chs/charleston-lean-meetup) (github)
-	- • 10/8 paper reviewed [Proving Lean Theorems in Zero-Knowledge](https://eprint.iacr.org/2024/267.pdf) (pdf)
+	- • Paper reviewed in 10/8 Meetup [Proving Lean Theorems in Zero-Knowledge](https://eprint.iacr.org/2024/267.pdf) (pdf)
 -
-- [RSVP at the Charleston Learning Center](https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/) for the next meeting
+- [RSVP at the Charleston Learning Center](https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/) for the next meeting!
 -
 - {{embed [[CDC Learning Center]]}}
 -
