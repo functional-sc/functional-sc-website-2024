@@ -1,4 +1,3 @@
-tags:: lean
 alias:: next-meeting
 date:: November 2024
 

@@ -6,7 +6,7 @@
 	  template-including-parent:: false
 		- tags: Clojure, Haskell, fsharp, Erlang, OCaml, technical, semi-technical, non-technical, meetup, video
 		  by: [[Foo]]
-		  venue: [[Reforge Charleston]] 
+		  venue: [[Foo]] 
 		  event-url: https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/
 		  date: 2019-11-05
 		-
@@ -22,7 +22,7 @@
 		  template-including-parent:: false
 			- tags: Clojure, Haskell, fsharp, Erlang, OCaml, technical, semi-technical, non-technical, article, video
 			  by: [[Foo]]
-			  venue: [[Reforge Charleston]] 
+			  venue: [[Foo]] 
 			  event-url: https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/
 			  date: 2019-11-05
 			-
