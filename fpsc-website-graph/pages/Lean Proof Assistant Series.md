@@ -1,6 +1,6 @@
 tags:: math, meetup, language
 date:: 2024-08-02
-presenter:: [[Jared Corduan]]
+by:: [[Jared Corduan]]
 
 - ![Lean Proof Assistant Series](../assets/LeanProofAssistantSeries.jpg){:height 608, :width 800}
 - [Lean](https://lean-lang.org/about/) is a functional programming language with a highly expressive type system. It can be used to produce performant programs that are **guaranteed** to meet their specifications, meaning that a large class of bugs cannot exist in your program. It is also used to interactively prove theorems in mathematics.

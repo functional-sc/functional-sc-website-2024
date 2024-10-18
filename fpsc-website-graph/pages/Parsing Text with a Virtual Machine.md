@@ -1,5 +1,5 @@
 tags:: Clojure, technical, meetup, video
-presenter:: [[Ghadi Shayban]] 
+by:: [[Ghadi Shayban]] 
 date:: 2016-04-16
 
 - ![Parsing Text with a Virtual Machine](../assets/ParsingTextwithaVirtualMachine.jpg)

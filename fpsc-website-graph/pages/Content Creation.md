@@ -10,7 +10,7 @@ tags:: management
 - Use the `meetup` tag and the following ones.  Don't forget double-colons:
 	- ```
 	  tags:: technical, meetup
-	  presenter:: [[Foo]]
+	  by:: [[Foo]]
 	  event-ulr:: https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/
 	  date:: 2019-11-05
 	  ```

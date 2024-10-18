@@ -17,7 +17,8 @@ alias:: Welcome, functional-sc
 -
 - # Meetings and Video Presentations
 - {{query (page-property :tags "meetup")}}
-  query-properties:: [:page :presenter :tags :date]
+  query-properties:: [:page :by :tags]
+-
 -
 -
 - # News and Updates

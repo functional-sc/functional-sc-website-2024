@@ -1,5 +1,5 @@
 tags:: math, technical, math, article, video, meetup
-presenter:: [[Jared Corduan]] 
+by:: [[Jared Corduan]] 
 date:: 2019-11-05
 
 -

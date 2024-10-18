@@ -1,5 +1,5 @@
 tags:: Clojure, technical, testing, video, meetup
-presenter:: [[Ghadi Shayban]] 
+by:: [[Ghadi Shayban]] 
 date:: 2018-03-27
 
 -

@@ -1,5 +1,5 @@
 tags:: Fsharp, technical, video, meetup
-presenter:: [[Andre Dublin]] 
+by:: [[Andre Dublin]] 
 date:: 2017-02-28
 
 - ![Introduction to Fsharp](../assets/IntroductionToFsharp.jpg)

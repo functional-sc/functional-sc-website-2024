@@ -1,6 +1,6 @@
 tags:: #compilers, technical, meetup, video
 date:: 2016-12-20
-presenter:: [[Kenneth Miller]]
+by:: [[Kenneth Miller]]
 
 - ![Lingusitics and Compilers](../assets/LinguisticsAndCompilers.jpg)
 -

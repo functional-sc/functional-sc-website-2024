@@ -1,7 +1,7 @@
 tags:: lisp, meetup
 date:: 2024-10-02
 event-url:: https://www.meetup.com/reforge/events/303531648
-presenter:: [[Heow Goodman]]
+by:: [[Heow Goodman]]
 
 - # Budget Microcontroller Workshop
 - # *How uLisp Simplifies Programming*

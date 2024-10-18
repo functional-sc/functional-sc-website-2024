@@ -22,7 +22,7 @@ tags:: management
 -
 - Create new article, see [[Content Creation]] , include metadata:
 	- tags: Clojure, technical, meetup
-	  presenter: [[Foo]] 
+	  by: [[Foo]] 
 	  date: 2016-04-16
 - Remember: tags go from most to least specific
 -

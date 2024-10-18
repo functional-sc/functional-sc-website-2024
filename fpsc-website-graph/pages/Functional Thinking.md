@@ -1,5 +1,5 @@
 tags:: Haskell, Clojure, semi-technical, video, meetup
-presenter:: [[Heow Goodman]] 
+by:: [[Heow Goodman]] 
 date:: 2016-04-19
 
 - ![FunctionalThinking.jpg](../assets/FunctionalThinking.jpg)

@@ -315,7 +315,7 @@
 
  ;; Hide specific block properties.
  ;; Example usage:
-   :block-hidden-properties #{:tags :alias :date :event-url :pin :presenter :address }
+   :block-hidden-properties #{:tags :alias :date :event-url :by :venue }
 
  ;; Create a page for all properties.
  ;; Default value: true

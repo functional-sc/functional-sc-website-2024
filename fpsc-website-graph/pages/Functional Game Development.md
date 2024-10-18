@@ -1,6 +1,6 @@
 tags:: Clojure, games, techncial, video, meetup
 date:: 2016-09-20
-presenter:: [[Zach Oakes]]
+by:: [[Zach Oakes]]
 
 - ![Functional Game Development](../assets/FunctionalGameDevelopment.jpg)
 -

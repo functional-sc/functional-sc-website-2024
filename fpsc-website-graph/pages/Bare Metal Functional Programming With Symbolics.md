@@ -1,5 +1,5 @@
 tags:: Lisp, technical, meetup, video
-presenter:: [[Craig Lanning]]
+by:: [[Craig Lanning]]
 date:: 2016-05-17
 
 - The Symbolic's Lisp Machine is an amazing and unique computer designed with one thing in mind: run functional programs as fast as possible using hardware specifically designed for the language!
