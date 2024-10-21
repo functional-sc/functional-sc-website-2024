@@ -1,3 +1,4 @@
+alias:: heow, heow-goodman
 tags:: person
 
 - ![Heow Goodman](../assets/HeowGoodman.jpg)

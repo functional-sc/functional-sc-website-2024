@@ -22,7 +22,7 @@ server {
 	listen 80;
 	listen [::]:80;
 	server_name functional.sc;
-	return 301 https://www.functional.sc$request_uri;
+	return 302 https://www.functional.sc$request_uri;
 }
 
 server {
@@ -40,9 +40,13 @@ server {
 		try_files $uri $uri/ =404;
 	}
 
-	# rewrite for human-readable landing pages
+        # rewrite for human-friendly landing pages
 	location = /ulisp {
 		return 302 https://www.functional.sc/#/page/ulisp ;
 	}
-}
 
+	location = /heow {
+		return 302 https://www.functional.sc/#/page/heow%20goodman ;
+	}
+
+}
