@@ -14,8 +14,9 @@ alias:: connect
 - We host monthly meetings, presentations, socials and technical events.
 -
 - ## Follow Us
-  
-  ![social-x.png](../assets/social-x_1726146261474_0.png)
--
-- [on X / formerly-known-as-Twitter](https://x.com/functional_sc/with_replies)
+- | | |
+  |-|-|
+  | ![social-mastodon.png](../assets/social-mastodon.png) | [on Mastodon at Functional Cafe](https://functional.cafe/@functional_sc)    |
+  | ![social-bksy.png](../assets/social-bksy.png)         | [on Blue Sky](https://bsky.app/profile/functional-sc.bsky.social)            |
+  | ![social-x.png](../assets/social-x.png)               | [on X / formerly-known-as-Twitter](https://x.com/functional_sc/with_replies) |
 -
