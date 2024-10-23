@@ -33,12 +33,13 @@ date:: 2024-10-15
 	- But they tend to be at the top of the page and can be distracting for novices. *So we hid them with CSS* but failed because [[Heow]] is not a font-end dev, so instead we need to hide them by editing the config.
 	- Please [[contact us]] if you can help.
 -
-- Functional SC is an advocacy group that is not targeted to just developments but also businesses and leaders. Most of them don't care about the underlying tech distractions which is why we dial down the geek.
+- Functional SC is an advocacy group that is not targeted to just developers but also businesses and leaders. Most of them don't care about the underlying tech distractions so we dial down the geek.
 -
-- Businesses do care about making or saving money which is where Logseq comes in. You can do such amazing quick work on such a small budget with fast turn around, collaboration and distribution with minimal backend services, it's nothing short of amazing.
+- Businesses do care about making or saving money which is where Logseq comes in. You can do such amazing quick work on such a small budget with fast turn around, collaboration and distribution with minimal backend services.  It's nothing short of amazing.
+-
 - # Publishing Process
 -
-- The process is different depending on if you are editing content versus deploying to the webhead.
+- The process is different if you are editing content versus deploying to the webhead.
 -
 - On your desktop or laptop, [download and install Logseq](https://logseq.com/downloads)
   logseq.order-list-type:: number
