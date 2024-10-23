@@ -26,6 +26,7 @@ tags:: management
 - Use the `article` tag and the following ones:
 	- ```
 	  tags:: semi-technical, article
+	  by:: [[Foo]]
 	  date:: 2016-03-26
 	  ```
 -

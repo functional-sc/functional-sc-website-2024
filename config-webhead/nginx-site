@@ -45,6 +45,10 @@ server {
 		return 302 https://www.functional.sc/#/page/ulisp ;
 	}
 
+	location = /tech {
+		return 302 https://www.functional.sc/#/page/knowledge%20graph%20sharing ;
+	}
+
 	location = /haskell {
 		return 302 https://www.functional.sc/#/page/haskell ;
 	}

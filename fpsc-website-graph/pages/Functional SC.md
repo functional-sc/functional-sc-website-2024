@@ -1,5 +1,4 @@
-alias:: Welcome, functional-sc
-
+-
 - ![fpsc-logo](../assets/fpsc-logo.png)
 -
 - Functional Programming is style of crafting software that allows programmers to create **simpler software** for complex problems, saving you money and time.

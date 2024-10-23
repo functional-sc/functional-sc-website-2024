@@ -1,6 +1,5 @@
 tags:: technical, semi-technical, article
 date:: 2016-05-01
-pin:: home
 
 -
 - ![SoYouWantToLearnJava.jpg](../assets/SoYouWantToLearnJava.jpg)

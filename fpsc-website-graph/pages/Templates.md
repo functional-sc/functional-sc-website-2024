@@ -22,8 +22,6 @@
 		  template-including-parent:: false
 			- tags: Clojure, Haskell, fsharp, Erlang, OCaml, technical, semi-technical, non-technical, article, video
 			  by: [[Foo]]
-			  venue: [[Foo]] 
-			  event-url: https://www.charlestonlc.org/classes/charleston-lean-proof-assistant-meetup/
 			  date: 2019-11-05
 			-
 			-

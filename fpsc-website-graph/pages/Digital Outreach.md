@@ -57,8 +57,6 @@ tags:: management
 - ### Linked In
 - https://www.linkedin.com/groups/12287160/
 -
-	- TODO add details
--
 - ### BlueSky
 - https://functional-sc.bsky.social
 -
