@@ -23,6 +23,7 @@
 			- tags: Clojure, Haskell, fsharp, Erlang, OCaml, technical, semi-technical, non-technical, article, video
 			  by: [[Foo]]
 			  date: 2019-11-05
+			  custom-url: foo
 			-
 			-
 			- Hey you, yes you **replace the single colons** with double ones like `tags::` and remove/replace them as necessary.  Note whether is has an associated video.

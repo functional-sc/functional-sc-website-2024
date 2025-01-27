@@ -40,37 +40,7 @@ server {
 		try_files $uri $uri/ =404;
 	}
 
-        # rewrite for human-friendly landing pages
-	location = /ulisp {
-		return 302 https://www.functional.sc/#/page/ulisp ;
-	}
+    # rewrite rules human-friendly landing pages
+    # generated from bin/make-nginx-rules.sh
+    # invalid as-is, final bracket missing
 
-	location = /tech {
-		return 302 https://www.functional.sc/#/page/knowledge%20graph%20sharing ;
-	}
-
-	location = /haskell {
-		return 302 https://www.functional.sc/#/page/haskell ;
-	}
-
-	location = /haskel {
-		return 302 https://www.functional.sc/#/page/haskell ;
-	}
-
-	location = /clojure {
-		return 302 https://www.functional.sc/#/page/clojure ;
-	}
-
-	location = /lean {
-		return 302 https://functional.sc/#/page/lean%20proof%20assistant%20series ;
-	}
-
-	location = /heow {
-		return 302 https://www.functional.sc/#/page/heow%20goodman ;
-	}
-
-	location = /jared {
-		return 302 https://www.functional.sc/#/page/jared%20corduan ;
-	}
-
-}

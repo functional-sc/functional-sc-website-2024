@@ -1,10 +1,10 @@
 alias:: next-meeting
-date:: November 2024
+date:: Feburary 2025
 
-- ![october-lambda-pumpkin.png](../assets/october-lambda-pumpkin_1728519460071_0.png)
-- Autumn is a busy time for spooky devs, plenty to do and look forward to!
-- • [Charleston Harbor Hackathon]( https://harborhack-24.devpost.com/)
-- • [Halloween Mashup Meetup Costume Party](https://www.meetup.com/charleston-women-in-tech/events/303742649/)
-- • [[Lean Proof Assistant Series]] November Meetup
-- • [[How uLisp Simplifies Programming]] Budget Micro-controller Workshop (reprise)
+- # Happy 2025!
+- • [[Lean Proof Assistant Series]] TUE Jan 14th
+- • [Charleston Hacks Happy Hour!](https://meetup.com/charlestonhacks) TUE Jan28th
+  id:: 6797b391-fb4c-4c34-a327-5cbd34d7dd7c
+- • [[How uLisp Simplifies Programming]] Budget Micro-controller Workshop TBD (reprise)
+-
 -

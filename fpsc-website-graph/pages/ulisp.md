@@ -1,10 +1,12 @@
-# Wecome to uLisp!
+custom-url:: ulisp
 
-Welcome to your personal Lisp Machine!  This is a 32-bit computer with limited memory and little permanent storage.
-
-It's running a bespoke version of uLisp that contains special functions for operating the (very bright) LEDs.
-
-It runs a subset of Common Lisp, take a look at [getting started](http://www.ulisp.com/show?1AAO) and the [language reference](http://www.ulisp.com/show?3L)
+- # Wecome to uLisp!
+  
+  Welcome to your personal Lisp Machine!  This is a 32-bit computer with limited memory and little permanent storage.
+  
+  It's running a bespoke version of uLisp that contains special functions for operating the (very bright) LEDs.
+  
+  It runs a subset of Common Lisp, take a look at [getting started](http://www.ulisp.com/show?1AAO) and the [language reference](http://www.ulisp.com/show?3L)
 - ### Connecting
   
   To connect to it:
@@ -28,7 +30,7 @@ It runs a subset of Common Lisp, take a look at [getting started](http://www.uli
   
   2329>
   ```
-- ### The Lights
+  - ### The Lights
   
   Each light is set by three 8-bit concatenated numbers (red, green, blue).  Seding these directly to `disp` will set all the lights to that RGB color:
   
@@ -51,7 +53,7 @@ It runs a subset of Common Lisp, take a look at [getting started](http://www.uli
   ```
   
   And `disp-off` or just `(disp)` turns all lights off
-- ### Personalize this at home!
+  - ### Personalize this at home!
   
   The 'animate' function utilizes the global variable 'animate-colors'.  Set 'animate colors' to a list of 4 colors to cycle through:
   

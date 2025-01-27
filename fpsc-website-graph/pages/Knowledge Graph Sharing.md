@@ -1,5 +1,6 @@
-tags:: Clojure, Logseq, non-technical, article
+tags:: ClojureScript, Logseq, non-technical, article, management
 date:: 2024-10-15
+custom-url:: tech
 
 - # 2024 Functional SC Website
 -
@@ -7,7 +8,7 @@ date:: 2024-10-15
 	-
 - ![Knowledge_Graph.jpeg](../assets/Knowledge_Graph_1729645672029_0.jpeg)
 -
-- It happens to be written in [[Clojure]], runs an edited [BlueTeaFrog Theme](https://github.com/blueteafrog/logseq-oxfordblue-theme) and supports many features as outlined in [[Content Creation]] Guidelines.
+- It happens to be written in [[ClojureScript]], runs an edited [BlueTeaFrog Theme](https://github.com/blueteafrog/logseq-oxfordblue-theme) and supports many features as outlined in [[Content Creation]] Guidelines.
 -
 - We love that Logseq is:
 	- • local first

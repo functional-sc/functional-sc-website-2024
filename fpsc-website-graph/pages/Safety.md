@@ -1,0 +1,17 @@
+- ![Safety.png](../assets/Safety_1731098882227_0.png)
+-
+- [[Safety]] is often achieved through features that prevent common classes of errors often through management of state and side effects, all of which contribute to the security and stability of applications in critical or safety-sensitive environments. Here are some programming languages known for promoting safety:
+  id:: 672a4555-2504-4305-b79d-92930c9c86f4
+	-
+	- [[Haskell]]: With a rigorous type system and pure functions, Haskell minimizes side effects, a key safety feature for high-assurance applications. Haskell’s type system can express constraints in the code, making it easier to prove correctness and avoid runtime errors.
+	-
+	- [[F#]]: In safety-critical industries, F# is valuable for its type inference, immutability and compatibility with Microsoft's .NET ecosystem of extensive libraries and tools. F# is commonly used in financial services and other industries where the cost of failure is high.
+	-
+	- [[OCaml]]: With its strong type system, pattern matching and support for immutability, OCaml is useful in environments demanding both accuracy and safety. OCaml’s type-checking helps prevent runtime errors and its memory management system is more predictable than other garbage-collected languages making it a safer option for performance-sensitive systems.
+	-
+	- [[Erlang]]: Erlang’s process isolation model supports fault-tolerant and crash-safe software. Each process is isolated, so if one crashes, others are unaffected, enhancing system resilience. This "let it crash" approach is advantageous for real-time safety-critical systems such as telecom and emergency response applications.
+	-
+	- [[Scala]]: Although Scala is a hybrid language, its support for functional paradigms and immutability, combined with the JVM’s runtime, makes it suitable for applications requiring safety and reliability. Scala is often used in big-data and distributed systems where safety is important for maintaining data consistency.
+	-
+	- [[Lean]]: While Lean is not typically a general-purpose programming language, it excels in ensuring the safety and correctness of algorithms and is widely used in the formal verification of code. Lean is a theorem prover allowing developers to write formal proofs that certain properties hold for their algorithms. This approach ensures that programs meet specified safety requirements with mathematical rigor.
+-

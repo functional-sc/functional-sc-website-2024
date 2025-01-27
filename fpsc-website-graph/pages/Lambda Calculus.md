@@ -1,6 +1,7 @@
-tags:: math, technical, math, article, video, meetup
+tags:: technical, video, meetup
 by:: [[Jared Corduan]] 
-date:: 2019-11-05
+date:: 2017-01-01
+custom-url:: lambda-calculus
 
 -
 - ![LambdaCalculus.jpg](../assets/LambdaCalculus.jpg)

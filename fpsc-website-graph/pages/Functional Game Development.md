@@ -2,7 +2,7 @@ tags:: Clojure, games, techncial, video, meetup
 date:: 2016-09-20
 by:: [[Zach Oakes]]
 
-- ![Functional Game Development](../assets/FunctionalGameDevelopment.jpg)
+- ![Functional Game Development](../assets/FunctionalGameDevelopment.jpg){:height 374, :width 600}
 -
 - While functional programming is making huge inroads in areas like web development and distributed computing, there is one kind of software where its use is still rare: games. The vast majority of games today, from the small indie variety up to triple-A titles, are written in a mostly standard way, filled with mutable variables and large object hierarchies.
 -

@@ -1,0 +1,32 @@
+- TODO tag up when ready to publish
+-
+- ![Nobody-Cares-About-Your-Productivity.png](../assets/Nobody-Cares-About-Your-Productivity_1731098493552_0.png)
+-
+- Nobody cares about your productivity ....sometimes.
+-
+- While Functional Programming techniques and technologies are powerful tools that significantly enhance productivity, delivering high-quality code requires **different design goals** than just maximizing output.  Productivity in terms of sheer volume is sometimes less critical than fulfilling other design criteria like security or safety and reliability. In certain contexts, like high-risk or critical industries, optimizing for factors beyond just development speed or quantity of delivery is the key objective.
+-
+- Hence in many industries, personal productivity is a secondary priority to:
+	- security
+	- safety & reliability
+	- regulatory compliance
+-
+- In these contexts, the focus shifts from development output to different real-world demands.
+-
+- For example:
+	- **Aerospace, Automotive and Autonomous Vehicle** is where [[safety]] and regulatory [[compliance]] are critical. 
+	   Especially in applications for avionics, flight systems and military-grade software. These systems undergo extensive testing and verification, making productivity secondary to stability and safety.
+	- **Healthcare and Medical Devices** is where [[accuracy and reliability]] are crucial. Software errors in diagnostic equipment can be life-threatening so precision and regulatory adherence outweigh the speed of development.
+	- **Financial Services and Banking** is where [[security]] and regulatory [[compliance]] are often prioritized over productivity. Financial institutions handle sensitive customer information and breaches or errors can lead to significant financial and reputational losses.
+-
+- Functional Programming can certainly help in with those categories.
+-
+- # Security
+- {{embed ((67293414-8d7b-4085-9cc5-82626a9a2e06))}}
+-
+- # Accuracy and Reliability
+- {{embed ((672a4554-52ac-4c31-95fa-5089aed396f3))}}
+- # Safety
+- {{embed ((672a4555-2504-4305-b79d-92930c9c86f4))}}
+- # Compliance
+- {{embed ((672a4554-8a64-41ad-a10e-c47d83b11231))}}

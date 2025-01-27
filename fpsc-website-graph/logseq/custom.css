@@ -1859,13 +1859,21 @@ div.color-level.embed.embed-page.bg-base-2 {
     padding: 0px 0px 0px 0px;
 }
 
+/* seamless block embeds */
+div.color-level.embed-block.bg-base-2 {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    padding: 0px 0px 0px 0px;
+}
+
 /* unduck external links readable */
 .external-link::before {
     content: none;
     margin-right: revert;
 }
 
-/* hide query controls
+/* hide query controls 
 div.custom-query div.th {
     display:none;
     visibility: hidden;

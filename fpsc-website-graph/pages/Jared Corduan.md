@@ -1,5 +1,6 @@
 alias:: jared, jared-corduan
 tags:: person
+custom-url:: jared
 
 - ![Jared Corduan](https://avatars2.githubusercontent.com/u/943479?s=400&v=4)
 -

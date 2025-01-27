@@ -34,3 +34,9 @@ tags:: management
 	- technical
 	- semi-technical
 	- non-technical
+-
+- ### Images
+	- Aim for 800x600
+	- 4:3 ratio, good for small screens
+	- good for desktop with sidebar open
+	-

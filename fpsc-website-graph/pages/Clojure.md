@@ -1,6 +1,8 @@
-alias:: clj
+alias:: clj, ClojureScript, cljs
 tags:: language
+custom-url:: clojure
 
+-
 - ### Business Rationale
 - Clojure stands out for its strengths in concurrency, functional programming and **seamless integration with the Java Virtual Machine** (JVM). If you're building modern, scalable applications then Clojure is a strong contender.  Its expressiveness and **productivity-boosting features** allow for **fast development** and easy adaptation making it an excellent choice for businesses focused on creating reliable and maintainable software.
 -

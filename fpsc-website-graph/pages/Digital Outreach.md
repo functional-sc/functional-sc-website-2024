@@ -57,6 +57,8 @@ tags:: management
 - ### Linked In
 - https://www.linkedin.com/groups/12287160/
 -
+- https://authoredup.com/blog/how-to-write-a-linkedin-post-about-an-event
+-
 - ### BlueSky
 - https://functional-sc.bsky.social
 -

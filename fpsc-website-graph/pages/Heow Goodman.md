@@ -1,5 +1,6 @@
 alias:: heow, heow-goodman
 tags:: person
+custom-url:: heow-goodman
 
 - ![Heow Goodman](../assets/HeowGoodman.jpg)
 -
